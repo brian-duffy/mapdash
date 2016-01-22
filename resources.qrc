@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/plugins/MapDash">
+    <file>images/Features/LoadingIcon.png</file>
+    <file>images/Features/ClutterPoints.png</file>
+    <file>images/Features/icon-fullscreen.png</file>
+    <file>images/Features/Scale.png</file>
+    <file>images/Features/GlobeMinimap.png</file>
+    <file>images/Features/Minimap.png</file>
+    <file>images/icons/strip_6.png</file>
+    <file>images/icons/strip_7.png</file>
+    <file>images/icons/strip_8.png</file>
+    <file>images/icons/strip_5.png</file>
+    <file>images/icons/strip_4.png</file>
+    <file>images/icons/strip_3.png</file>
+    <file>images/icons/strip_2.png</file>
+    <file>images/icons/strip_1.png</file>
+    <file>images/vertical-menu.png</file>
+    <file>side-menu.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
