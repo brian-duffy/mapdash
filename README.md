@@ -1,0 +1,2 @@
+# mapdash
+QGIS plugin
